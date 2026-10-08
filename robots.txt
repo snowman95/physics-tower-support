@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://snowman95.github.io/physics-tower-support/sitemap.xml
